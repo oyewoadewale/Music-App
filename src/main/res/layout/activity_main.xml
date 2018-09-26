@@ -1,0 +1,46 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/head_set"
+    android:orientation="vertical"
+    android:layout_marginBottom="80dp"
+    android:layout_marginTop="20dp"
+    tools:context="com.example.hp.lmamapp.MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/playlist"
+        style="@style/CategoryStyle"
+        android:textColor="#faa91e"
+        android:textSize="@dimen/text_size"
+        android:text="@string/Play_list"
+        />
+
+        <TextView
+            android:id="@+id/now_playing"
+            style="@style/CategoryStyle"
+            android:textColor="#faa91e"
+            android:textSize="@dimen/text_size"
+            android:text="@string/now_playing"
+            />
+
+    <TextView
+        android:id="@+id/album"
+        style="@style/CategoryStyle"
+        android:textColor="#faa91e"
+        android:textSize="@dimen/text_size"
+        android:text="@string/album"
+        />
+
+    <TextView
+        android:id="@+id/favourite"
+        style="@style/CategoryStyle"
+        android:textColor="#faa91e"
+        android:textSize="@dimen/text_size"
+        android:text="@string/favourite"
+        />
+
+</LinearLayout>

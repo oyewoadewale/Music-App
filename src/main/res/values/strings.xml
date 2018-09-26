@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+
+
+    <string name="app_name">LMAM ALL STARS</string>
+
+    <!-- Category name for Favourite Songs [CHAR LIMIT=20] -->
+
+
+    <string name="favourite">Favourite Songs</string>
+
+    <!-- Category name for the vocabulary words for Your Playlist [CHAR LIMIT=20] -->
+
+
+    <string name="Play_list">My Playlist</string>
+
+    <!-- Category name for the vocabulary words for ow Playing [CHAR LIMIT=20] -->
+
+
+    <string name="now_playing">Now Playing</string>
+
+    <!-- Category name for the vocabulary words for Album [CHAR LIMIT=20] -->
+
+
+    <string name="album">Album</string>
+
+    <!-- Category name for the vocabulary words for Place holder image [CHAR LIMIT=20] -->
+
+    <string name="image">Place holder image</string>
+
+</resources>
